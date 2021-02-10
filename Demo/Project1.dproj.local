@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/06 17:10:20.000.286,=C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/06 17:10:48.000.962,C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\Unit1.pas=I:\PagOnLine\App\Unit1.pas</Transaction>
+    <Transaction>2021/02/06 17:10:48.000.962,C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\Unit1.fmx=I:\PagOnLine\App\Unit1.fmx</Transaction>
+    <Transaction>2021/02/06 17:10:51.000.348,C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\Project1.dproj=I:\PagOnLine\App\Project1.dproj</Transaction>
+    <Transaction>2021/02/08 13:20:32.000.981,=I:\PagOnLine\App\FMXDelphiZXIngQRCode.pas</Transaction>
+    <Transaction>2021/02/08 16:21:55.000.359,=I:\PagOnLine\App\crc16.pas</Transaction>
+    <Transaction>2021/02/08 16:35:52.000.968,I:\PagOnLine\App\crc16.pas=</Transaction>
+    <Transaction>2021/02/09 01:28:23.000.852,I:\PagOnLine\App\FMXDelphiZXIngQRCode.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

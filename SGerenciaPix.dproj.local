@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/06 16:10:55.000.502,=rtl.dcp</Transaction>
+    <Transaction>2021/02/06 16:11:09.000.693,=I:\PagOnLine\GerenciaPix\GerenciaPix.pas</Transaction>
+    <Transaction>2021/02/07 11:31:20.000.037,I:\PagOnLine\GerenciaPix\SGerenciaPix.dproj=I:\PagOnLine\GerenciaPix\GerenciaPix.dproj</Transaction>
+    <Transaction>2021/02/08 23:03:57.000.980,=fmx.dcp</Transaction>
+    <Transaction>2021/02/09 00:06:52.000.913,=I:\PagOnLine\GerenciaPix\FMXDelphiZXIngQRCode.pas</Transaction>
+    <Transaction>2021/02/09 03:02:03.000.759,I:\PagOnLine\GerenciaPix\FMXDelphiZXIngQRCode.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

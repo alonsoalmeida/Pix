@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/05 22:20:22.000.919,=C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/05 22:20:49.000.138,C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\AppGerenciaNet.dproj</Transaction>
+    <Transaction>2021/02/05 22:21:10.000.671,C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\Unit1.pas=I:\GerenciaNet\App\Unit1.pas</Transaction>
+    <Transaction>2021/02/05 22:21:10.000.671,C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\Unit1.fmx=I:\GerenciaNet\App\Unit1.fmx</Transaction>
+    <Transaction>2021/02/05 22:21:12.000.878,C:\Users\Sergio\Documents\Embarcadero\Studio\Projects\AppGerenciaNet.dproj=I:\GerenciaNet\App\AppGerenciaNet.dproj</Transaction>
+    <Transaction>2021/02/05 23:01:09.000.722,I:\GerenciaNet\App\Unit1.pas=</Transaction>
+    <Transaction>2021/02/05 23:01:30.000.695,=I:\GerenciaNet\App\Unit2.pas</Transaction>
+    <Transaction>2021/02/05 23:19:26.000.155,I:\GerenciaNet\App\Unit2.fmx=I:\GerenciaNet\App\Unit1.fmx</Transaction>
+    <Transaction>2021/02/05 23:19:26.000.155,I:\GerenciaNet\App\Unit2.pas=I:\GerenciaNet\App\Unit1.pas</Transaction>
+    <Transaction>2021/02/06 03:43:05.000.485,=I:\GerenciaNet\GerenciaNet.bmp</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
